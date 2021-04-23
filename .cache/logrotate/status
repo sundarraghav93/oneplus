@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/gamut/.cache/upstart/dbus.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/window-stack-bridge.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/gpg-agent.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/hud.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/indicator-sound.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/unity-panel-service.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/upstart-event-bridge.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/unity7.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/ssh-agent.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/gnome-keyring-ssh.log" 2021-4-23-17:0:0
+"/home/gamut/.cache/upstart/unity-settings-daemon.log" 2021-4-23-17:0:0
